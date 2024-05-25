@@ -1,3 +1,5 @@
+vadim and Dmitry
+>>>>>>> d9995202ddf0d3fe4f56b8ca0293fe470fa9178f
 #include "SessionAgregator.h"
 #include "../settings/Settings.h"
 #include "../db/DbConnection.h"
