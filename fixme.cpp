@@ -1,3 +1,4 @@
+vadim
 #include "SessionAgregator.h"
 #include "../settings/Settings.h"
 #include "../db/DbConnection.h"
